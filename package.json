@@ -1,13 +1,17 @@
 {
   "name": "ursh",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "URL Shortener API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "ursh",
+    "url",
+    "shortener"
+  ],
+  "author": "Aditya Yadav",
   "license": "ISC",
   "dependencies": {
     "cross-fetch": "^3.1.5"
